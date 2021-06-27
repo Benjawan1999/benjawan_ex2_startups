@@ -1,0 +1,29 @@
+p{
+   line-height: 1.35rem;
+   color: grey;
+   font-size: 1.2rem;
+   margin: 1rem auto;
+}
+
+img{
+    width: 10rem;
+}
+
+button{
+    background-color: white;
+    border: none;
+    color: blue;
+    font-size: 1.2rem;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+   
+}
+div{
+    width: 600px;
+    margin: auto;
+    font-family: 'Open Sans Condensed', sans-serif;
+    
+}
+h1{
+    margin: 0;
+}
